@@ -6,3 +6,14 @@ Can work with 2 ways, depending on preference. set `mode = 1` for first mode and
 **First mode** iterates every value of analog output, from 0 to 255 and changes the delay between them.
 
 **Second mode** changes the value of analog output exponentially, and keeps the delay time constant between each value (so analog output might not end up having every possible value)
+
+# Connections
+You need:
+* P-MOSFET
+* 5V ARDUINO
+* 12V 1A source
+* LD Strip
+* Cables, of course
+
+And connect everything like this:
+![The Circuit](https://image.ibb.co/e5zgpR/circuit.png)
