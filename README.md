@@ -12,7 +12,7 @@ You need:
 * P-MOSFET
 * 5V ARDUINO
 * 12V 1A source
-* LD Strip
+* LED Strip
 * Cables, of course
 
 And connect everything like this:
